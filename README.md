@@ -7,7 +7,6 @@ Fake cats
 
 
 
-Here's the revised version:
 
 ---
 
