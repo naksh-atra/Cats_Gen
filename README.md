@@ -1,4 +1,4 @@
-# Cats_Gen
+# DeepPurr
 
 
 Fake cats
